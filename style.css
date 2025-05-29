@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    color: rgb(141, 141, 229);
+    background-color: rgb(249, 225, 230);
+}
+
+#title {
+    height: 90px;
+    width: 450px;
+}
+
+#board {
+    height: 360px;
+    width: 360px;
+    background-color: lightblue;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px solid rgb(141, 141, 229);
+}
+
+#board img {
+    width: 118px;
+    height: 118px;
+    border: 1px solid rgb(141, 141, 229);
+}
+
+#congratsMessage {
+    margin-top: 20px;
+    font-size: 24px;
+    color: rgb(141, 141, 229);
+    font-weight: bold;
+    text-align: center;
+    display: none; /* hidden by default */
+}
+
+#answerImage {
+  display: none; /* hidden at first */
+  width: 360px;
+  height: 360px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+    background-color: rgb(141, 141, 229);
+    padding: 10px;
+    border-radius: 10%;
+    font-family: monospace;
+    font-size: 15px;
+    margin-top: 5px;
+}
