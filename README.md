@@ -1,4 +1,5 @@
 #Puzzle Slider Game
+
 [Live Demo](https://puzzleslider.netlify.app/)
 
 A simple 3x3 image puzzle game built using HTML, CSS, and JavaScript. Drag the tiles to restore the original image.
