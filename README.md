@@ -1,4 +1,4 @@
-#Puzzle Slider Game
+# Puzzle Slider Game
 
 [Live Demo](https://puzzleslider.netlify.app/)
 
